@@ -9,4 +9,4 @@
 </p> 
 
 ## **Previous description** 
-We will release the relevant codes and datasets introduced in EA-GCL here after December 1st, 2023 (i.e., the deadline of the conference). These codes are attached to the conference paper: "EA-GCL: External Attention-enhanced Graph Contrastive Learning for Unbiased Cross-domain Sequential Recommendation (ICDMW2023).
+We will release the relevant codes and datasets introduced in EA-GCL here after December 1st, 2023 (i.e., the deadline of the conference). These codes are attached to the conference paper: "Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation (ICDMW2023).
