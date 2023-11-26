@@ -13,12 +13,20 @@ We will release the relevant codes and datasets introduced in EA-GCL here after 
 
 ## **Code description**
 ### **Vesion of implements and tools**
-1.python 3.6
-2.tensorflow 1.12.0
-3.scipy 1.5.3
-4.numpy 1.16.0
-5.pandas 0.22.0
+1.python 3.6  
+
+2.tensorflow 1.12.0  
+
+3.scipy 1.5.3  
+
+4.numpy 1.16.0  
+
+5.pandas 0.22.0  
+
 6.matplotlib 3.3.4
-7.Keras 1.0.7
-8.tqdm 4.60.0
+
+7.Keras 1.0.7  
+
+8.tqdm 4.60.0  
+
 
