@@ -8,7 +8,7 @@
   <img src='https://img.shields.io/badge/scipy-1.5.3-brightgreen'>
 </p> 
 
-## **Previous description** 
+## **Previous description**
 The code is attached to our paper: "Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation" (ICDMW 2023). If you want to use our codes or datasets in your research, please cite our paper.
 ## **Code description**
 ### **Vesion of implements and tools**
@@ -20,3 +20,6 @@ The code is attached to our paper: "Unbiased and Robust: External Attention-enha
 6. matplotlib 3.3.4
 7. Keras 1.0.7
 8. tqdm 4.60.0  
+
+### **Additionally**
+The Dataset and Code will be coming soon.(容我研究研究数据集怎么上传上来(●'◡'●))
