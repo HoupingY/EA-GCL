@@ -5,11 +5,6 @@
 
 class Settings:
     def __init__(self):
-        self.code_path = "https://gitee.com/JinyuZ1996/Fair_GCL"
-
-        '''
-            block 1: the draw_figures parameters for model training
-        '''
         self.learning_rate = 0.005  # 0.005 for Douban 0.001 for AMAZON
         self.dropout_rate = 0.1
         self.keep_prob = 1 - self.dropout_rate
