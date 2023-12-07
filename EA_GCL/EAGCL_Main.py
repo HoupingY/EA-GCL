@@ -8,6 +8,7 @@ from time import time
 from EAGCL_Config import *
 from EAGCL_Printer import *
 from EAGCL_Train import *
+from EAGCL_Module import *
 
 np.seterr(all='ignore')
 args = Settings()
