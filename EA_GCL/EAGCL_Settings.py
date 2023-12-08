@@ -5,6 +5,12 @@
 
 class Settings:
     def __init__(self):
+        self.code_path = "https://github.com/HoupingY/EA-GCL"
+
+        '''
+                   block 2: the draw_figures parameters for EAGCL_Module.py
+        '''
+
         self.learning_rate = 0.005  # 0.005 for Douban 0.001 for AMAZON
         self.dropout_rate = 0.1
         self.keep_prob = 1 - self.dropout_rate
