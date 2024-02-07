@@ -10,7 +10,7 @@
 
 ## **Previous description**
 The code is attached to our paper: "Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation" (ICDMW 2023). If you want to use our codes or datasets in your research, please cite our paper.  
-You can access the preprint version of our paper on Arxiv at:<https://conferences.computer.org/icdmpub23/pdfs/ICDMW2023-1btOMqsEAhSv2sZzUEslUg/816400b536/816400b536.pdf>. 
+You can access the preprint version of our paper on Arxiv at:<https://ieeexplore.ieee.org/document/10411670>. 
 ## **Code description**
 ### **Vesion of implements and tools**
 1. python 3.6
